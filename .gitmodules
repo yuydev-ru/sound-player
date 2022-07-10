@@ -1,0 +1,6 @@
+[submodule "Dependencies/imgui-glfw-opengl3"]
+	path = Dependencies/imgui-glfw-opengl3
+	url = git@github.com:yuydev-ru/imgui-glfw-opengl3.git
+[submodule "Dependencies/glfw"]
+	path = Dependencies/glfw
+	url = git@github.com:yuydev-ru/glfw.git
